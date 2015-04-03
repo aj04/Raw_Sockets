@@ -1,0 +1,8 @@
+(1) ant jar --> 
+(2) cd src/jni
+export JDK_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+make
+
+
+set rocksaw-1.1.0.jar as external jar
+set librocksaw.so as shared library for project.

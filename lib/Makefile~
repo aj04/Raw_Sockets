@@ -1,0 +1,4 @@
+target:
+	javac -d . RawSocket.java
+	javah RawSocket
+
